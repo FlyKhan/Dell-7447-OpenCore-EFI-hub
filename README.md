@@ -7,7 +7,7 @@ Opencore版本：0.7.7
 
 ### 示例图
 
-![12.2](img/1.png)
+<a href="https://imgtu.com/i/H8iaCR"><img src="README.assets/H8iaCR.png" alt="H8iaCR.png" border="0" /></a>
 
 示例图已过期，等待下次更新，目前仅供参考
 
